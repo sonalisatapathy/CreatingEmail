@@ -1,0 +1,25 @@
+ul {
+  display: flex;
+  margin-left: -16px;
+}
+li {
+  list-style: none;
+  border: 2px solid #ccc;
+  margin: 0 2px;
+  padding: 5px;
+}
+.DesignCompWrapper {
+  border: 2px solid #ccc;
+  float: left;
+  margin: 6px 0;
+  padding: 4px;
+  width: 210px;
+}
+.content {
+  border: 2px solid #ccc;
+  margin: 9px;
+  box-shadow: 5px 10px 20px gray inset;
+  text-align: center;
+  width: 167px;
+  font-weight: bold;
+}

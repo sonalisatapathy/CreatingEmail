@@ -1,0 +1,14 @@
+.layout {
+  clear: both;
+  float: left;
+  border: 2px solid #ccc;
+  width: 210px;
+}
+.showLayout {
+  border: 2px solid #ccc;
+  margin: 9px;
+  box-shadow: 5px 10px 20px gray inset;
+  text-align: center;
+  width: 167px;
+  font-weight: bold;
+}
